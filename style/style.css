@@ -10,11 +10,17 @@
 
 body{
     background-color: gray;
+    padding: 10px;
 }
 main{
     background-color: white;
+
+    max-width: 600px;
+
     padding: 30px;
-    margin: 20px;
+    margin: auto;
+
+    box-shadow: 2px 3px 4px black;
 }
 main h1{
     padding-bottom: 7px;
